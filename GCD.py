@@ -4,4 +4,4 @@ def GCD(A,B):
   else:
     return GCD(B,A%B)
   print("check ")
-GCD(6,12)  
+print(GCD(6,12)) 
